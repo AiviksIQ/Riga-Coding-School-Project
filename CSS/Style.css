@@ -1,0 +1,11 @@
+Body{
+
+    background-color: red;
+}
+
+.main-menu{
+    list-style:none;
+}
+.slider img{
+max-width: 100%;
+}
